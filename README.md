@@ -87,3 +87,8 @@ The notebooks expect a specific directory structure. Ensure your data is organiz
 *   **Weights**: Trained model weights are saved in their respective `runs/` directories or specifically defined output folders (e.g., `YOLO_OBB_FineTuning_Results`).
 *   **Logs**: Training logs are saved to Weights & Biases (if enabled) and local `runs/` folders.
 *   **Test Results**: Final evaluation metrics are saved in `last-test/test_results_last/` as JSON and TXT files.
+
+## Data and Models Availability
+
+The datasets used for training the models mentioned in the paper, as well as the trained models themselves, are available for download.
+
