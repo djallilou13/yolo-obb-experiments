@@ -90,5 +90,9 @@ The notebooks expect a specific directory structure. Ensure your data is organiz
 
 ## Data and Models Availability
 
-The datasets used for training the models mentioned in the paper, as well as the trained models themselves, are available for download.
+To support reproducibility, all assets used in this research have been made available online. Please visit our project website to access:
+[Website link]
+* **The Dataset:** The hybrid real-world and synthetic "Digital Twin" airport trolley dataset, complete with Oriented Bounding Box (OBB) annotations.
+* **Pre-trained Models:** The YOLO11l-OBB weights trained under our various Sim-to-Real protocols (Linear Probing, Fine-Tuning, and Mixed Training).
+
 
